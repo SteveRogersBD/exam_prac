@@ -9,5 +9,5 @@ let result = x + y;
 
 console.log(result);
 
-document.getElementById("output").textContent =
-    course + " | Students: " + students + " | Result: " + result;
+// document.getElementById("output").textContent =
+//     course + " | Students: " + students + " | Result: " + result;
